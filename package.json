@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/Gopikrishna19/init-repo-files/issues"
   },
-  "homepage": "https://github.com/Gopikrishna19/init-repo-files#readme"
+  "homepage": "https://github.com/Gopikrishna19/init-repo-files#readme",
+  "keywords": [
+    "initiaze",
+    "init",
+    "repository",
+    "repo"
+  ]
 }
