@@ -1,0 +1,16 @@
+{
+  "name": "@gss-utils/init-repo-files",
+  "version": "0.0.0",
+  "description": "Initialize repository with basic files to get started",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopikrishna19/init-repo-files.git"
+  },
+  "author": "Gopikrishna Sathyamurthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gopikrishna19/init-repo-files/issues"
+  },
+  "homepage": "https://github.com/Gopikrishna19/init-repo-files#readme"
+}
