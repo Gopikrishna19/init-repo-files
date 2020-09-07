@@ -3,7 +3,7 @@
   "version": "0.2.2",
   "description": "Initialize repository with basic files to get started",
   "bin": {
-    "init-repo-files": "bin/init-repo-files.js"
+    "gs-init-repo-files": "bin/gs-init-repo-files.js"
   },
   "main": "index.js",
   "repository": {
