@@ -1,6 +1,6 @@
 {
   "name": "@gs-utils/init-repo-files",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Initialize repository with basic files to get started",
   "bin": {
     "gs-init-repo-files": "bin/gs-init-repo-files.js"
